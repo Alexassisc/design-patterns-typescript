@@ -1,0 +1,6 @@
+{
+  "code-runner.runInTerminal": true,
+  "code-runner.executorMap": {
+    "typescript": "powershell -Command \"Clear-Host; npx ts-node --files --transpile-only '$file'\""
+  }
+}
