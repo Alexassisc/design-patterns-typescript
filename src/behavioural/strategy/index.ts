@@ -25,4 +25,3 @@ console.log('Total com Desconto Padrão: R$', carrinho.getTotalComDesconto());
 // Mudando para VIP em tempo de execução (15%)
 carrinho.descontoStrategy = new DescontoVip();
 console.log('Total com Desconto VIP: R$', carrinho.getTotalComDesconto());
- 
