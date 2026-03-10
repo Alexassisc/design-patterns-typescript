@@ -1,0 +1,27 @@
+[
+  {
+    "nome": "Luiz Otávio",
+    "idade": "30",
+    "cpf": "606.351.450-30"
+  },
+  {
+    "nome": "Maria Helena",
+    "idade": "52",
+    "cpf": "991.406.250-44"
+  },
+  {
+    "nome": "Rosana",
+    "idade": "18",
+    "cpf": "450.218.290-76"
+  },
+  {
+    "nome": "João",
+    "idade": "50",
+    "cpf": "647.180.070-38"
+  },
+  {
+    "nome": "Alice Maria",
+    "idade": "25",
+    "cpf": "849.133.130-10"
+  }
+]
